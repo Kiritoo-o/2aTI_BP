@@ -907,3 +907,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.19-10.34.32:367][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.09.19-10.34.32:437][  2]LogSlate: Took 0.006620 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2023.09.19-10.34.36:039][425]LogSlate: Took 0.005766 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.09.19-10.58.04:838][221]LogSlate: Window 'Save Level As' being destroyed
